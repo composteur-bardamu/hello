@@ -1,0 +1,101 @@
+#wrapper{
+	background-image: url(../images/background2.png); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 250px;
+}
+
+#wrapper img{
+	height: 200px;
+}
+
+#tagline{
+	font-family: 'Helvetica Neue LT Std 57 Condensed', sans-serif;
+	text-align: center;
+	color: #67171F;
+	font-size: 20px;
+	background-color: white;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.bouton{
+	background-color: #67171F;
+	color: white;
+	font-family: Gotham Black;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	padding-right: 12px;
+	font-size: 15px;
+	border: none;
+}
+
+.Email{
+	background-color: transparent;
+	color: #8E8D8D;
+	font-family: Helvetica;
+	font-size: 14px;
+	padding-top: 7px;
+	padding-bottom: 8px;
+	padding-right: 35px;
+	padding-left: 8px;
+	border: black 1px solid;
+}
+
+form{
+	background-color: rgba(255, 255, 255, 0.8);
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+form p{
+	font-size: 16px;
+	font-family: Helvetica;
+	color: rgb(28, 28, 27);
+}
+
+.vertical-spacer{
+	margin-bottom: 80px;
+}
+
+#content{
+	font-family: 'Helvetica Neue LT Std 57 Condensed', sans-serif;
+	text-align: center;
+	margin-top: 200px;
+}
+
+#content p{
+	color: rgb(98, 8, 31);
+	font-size: 20px;
+}
+
+.nom{
+	font-family: sans-serif;
+	font-size: 28px;
+}
+
+.carre{
+	border: rgb(98, 8, 31) 3px solid;
+	border-radius: 8px;
+	margin: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+	color: rgb(136, 138, 141);
+}
+
+.carre h1 {
+	color: rgb(98, 8, 31);
+}
+
+#footer{
+	background-image: url(../images/footer.png); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
