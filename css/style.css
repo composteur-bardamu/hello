@@ -65,7 +65,8 @@ form p{
 #content{
 	font-family: 'Helvetica Neue LT Std 57 Condensed', sans-serif;
 	text-align: center;
-	margin-top: 200px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 }
 
 #content p{
@@ -109,4 +110,7 @@ width:35%;
 
 .vp{
 	margin-left: 20px;
+}
+
+.photo{
 }
